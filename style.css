@@ -1,0 +1,25 @@
+*{
+
+    box-sizing: border-box;
+}
+.mySlides {
+    display: none;
+}
+img {
+    vertical-align: middle;
+}
+
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+h1,h2{
+    background-color: #ffebcd;
+}
+h3{
+    text-decoration: underline;
+}
